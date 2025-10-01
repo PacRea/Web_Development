@@ -1,13 +1,20 @@
-html{
-    font-size: 62.5%
+:root {
+  --blanco: #ffffff;
+  --obscuro: #212121;
+  --primario: #ffc107;
+  --secunadario: #0097a7;
+  --gris: #757575;
 }
-body{
-    font-size: 16px; /* 1rem = 10px */
+html {
+  font-size: 62.5%;
 }
-.titulo{
-    text-align: center;
-    font-size: 3.8rem;
+body {
+  font-size: 16px; /* 1rem = 10px */
 }
-.titulo span{
-    font-size: 2rem;
+.titulo {
+  text-align: center;
+  font-size: 3.8rem;
+}
+.titulo span {
+  font-size: 2rem;
 }
