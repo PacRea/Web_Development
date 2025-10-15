@@ -1,0 +1,24 @@
+{
+  "name": "festival_musica",
+  "version": "1.0.0",
+  "description": "Aprendiendo SASS y NPM ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PacRea/Web_Development.git"
+  },
+  "keywords": [
+    "SASS",
+    "NPM",
+    "Gulp"
+  ],
+  "author": "Diego Rea Morales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PacRea/Web_Development/issues"
+  },
+  "homepage": "https://github.com/PacRea/Web_Development#readme"
+}
